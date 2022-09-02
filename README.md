@@ -1,10 +1,10 @@
 # Team-6-Main
 Data Project 1
 
-Emilio Guzman
-Christy Martell
-Samantha Seng
-Richard Wang
+Emilio Guzman, \n
+Christy Martell, \n
+Samantha Seng, \n
+Richard Wang, \n
 Leyang Zhang
 
 [Project's Title] 
